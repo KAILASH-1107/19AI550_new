@@ -1,6 +1,6 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### DATE: 09-03-2026                                                                  
-### REGISTER NUMBER : KAILASH.V
+### REGISTER NUMBER : 212224240067
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
